@@ -1746,6 +1746,7 @@ a=[
 "www.unofficialgoogledatascience.com",
 "www.penchinese.org",
 "xbookcn.com",
+"xbookcn.net",
 "yeeyan.org",
 "yegle.net",
 "yezimary.spaces.live.com",
