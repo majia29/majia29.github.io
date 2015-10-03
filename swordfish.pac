@@ -1502,6 +1502,7 @@ a=[
 "tuite.im",
 "tuite.in",
 "tumblr.awflasher.com",
+"tumblr.com",
 "tumblweed.org",
 "tunein.com",
 "turbobit.net",
