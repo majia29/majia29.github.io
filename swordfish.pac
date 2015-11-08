@@ -18,6 +18,7 @@ a=[
 "ajax.googleapis.com",
 "autoproxy-gfwlist.googlecode.com",
 "bannedbook.org",
+"bbc.com",
 "bit.ly",
 "bitly.com",
 "bloomberg.com",
