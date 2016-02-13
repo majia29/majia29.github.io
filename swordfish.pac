@@ -1695,6 +1695,7 @@ a=[
 "wangyi64.spaces.live.com",
 "wapedia.mobi",
 "washeng.net",
+"watch8x.com",
 "wattpad.com",
 "wearn.com",
 "web.pts.org.tw",
