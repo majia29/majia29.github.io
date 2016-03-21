@@ -481,6 +481,7 @@ a=[
 "getfreedur.com",
 "getiton.com",
 "getjetso.com",
+"getlantern.org",
 "getsmartlinks.com",
 "getsocialscope.com",
 "gfw.org.ua",
