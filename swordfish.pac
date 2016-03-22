@@ -850,6 +850,7 @@ a=[
 "melon-peach.com",
 "meme.yahoo.com",
 "memedia.cn",
+"memehk.com",
 "mesotw.com",
 "metacafe.com",
 "meteorshowersonline.com",
