@@ -3,7 +3,7 @@ dnsDomainIs=function(h,d){
 }
 function FindProxyForURL(u,h){
 	if(h.indexOf(".blogspot.")!==-1)
-	return "PROXY 211.151.151.210:12150";
+	return "PROXY 119.29.99.164:12150";
 
 a=[
 "64memo.com",
@@ -1777,7 +1777,7 @@ a=[
 "|https:"];
 for(i=0;i<a.length;i++){
 	if(dnsDomainIs(h,a[i])){
-		return "PROXY 211.151.151.210:12150"
+		return "PROXY 119.29.99.164:12150"
 	}
 }
 	return "DIRECT"
