@@ -11,6 +11,7 @@ a=[
 "ablwang.com",
 "abc.xyz",
 "accounts.google.com",
+"akamaihd.net",
 "angularjs.org",
 "android.com",
 "appledaily.com.tw",
