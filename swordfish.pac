@@ -660,6 +660,7 @@ a=[
 "imagevenue.com",
 "imdb.com",
 "img.ly",
+"imgs.co",
 "imgur.com",
 "imkev.com",
 "imlive.com",
