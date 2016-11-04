@@ -1035,6 +1035,7 @@ a=[
 "opnir.com",
 "orn.jp",
 "osfoora.com",
+"otofotki.pl",
 "ourdearamy.com",
 "oursogo.com",
 "overlapr.com",
