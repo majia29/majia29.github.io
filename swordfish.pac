@@ -6,6 +6,7 @@ function FindProxyForURL(u,h){
 	return "PROXY 119.29.99.164:12150";
 
 a=[
+"3wk.cc",
 "64memo.com",
 "aboluowang.com",
 "ablwang.com",
