@@ -1164,6 +1164,7 @@ a=[
 "pwned.com",
 "pypi.python.org",
 "python.com.tw",
+"pythonhackers.com",
 "qanote.com",
 "qienkuen.org",
 "qixianglu.cn",
