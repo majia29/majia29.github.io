@@ -844,6 +844,7 @@ a=[
 "mayimayi.com",
 "md-t.org",
 "mediafire.com",
+"medium.com",
 "meetup.com",
 "megaporn.com",
 "megarotic.com",
