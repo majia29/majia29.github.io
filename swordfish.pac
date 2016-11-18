@@ -1089,6 +1089,7 @@ a=[
 "photos.dailyme.com",
 "picasaweb.google.com",
 "picidae.net",
+"picshick.com",
 "picturedip.com",
 "picturesocial.com",
 "pidown.com",
