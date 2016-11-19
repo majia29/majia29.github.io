@@ -251,6 +251,7 @@ a=[
 "dl-laby.jp",
 "dl.box.net",
 "dlsite.com",
+"dmm.co.jp",
 "dnscrypt.org",
 "docs.google.com",
 "docstoc.com",
