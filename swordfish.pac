@@ -1292,6 +1292,7 @@ a=[
 "shixiao.org",
 "shizhao.org",
 "shkspr.mobi",
+"showhaotu.pw",
 "shwchurch3.com",
 "simpleproductivityblog.com",
 "sin1.g.adnxs.com",
