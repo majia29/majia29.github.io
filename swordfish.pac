@@ -54,6 +54,7 @@ a=[
 "budaedu.org",
 "bugbeep.com",
 "bugclub.org",
+"bugreplay.com",
 "bullog.org",
 "bullogger.com",
 "businesstimes.com.cn",
