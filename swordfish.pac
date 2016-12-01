@@ -1238,6 +1238,7 @@ a=[
 "s.xiaod.in",
 "s1heng.com",
 "s3.amazonaws.com",
+"s8tu.com",
 "sacom.hk",
 "saiq.me",
 "salvation.org.hk",
