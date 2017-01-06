@@ -244,6 +244,7 @@ a=[
 "digicert.com",
 "diigo.com",
 "dimitrik.free.fr",
+"dio66.net",
 "discuss.com.hk",
 "discoverdvc.org",
 "disp.cc",
