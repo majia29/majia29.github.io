@@ -520,6 +520,7 @@ a=[
 "google.com.hk",
 "google.co.jp",
 "googleapis.com",
+"googleblog.com",
 "googlecode.com",
 "google-analytics.com",
 "googlepages.com",
