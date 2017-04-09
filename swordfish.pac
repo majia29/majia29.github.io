@@ -3,7 +3,7 @@ dnsDomainIs=function(h,d){
 }
 function FindProxyForURL(u,h){
 	if(h.indexOf(".blogspot.")!==-1)
-	return "PROXY 58.215.187.203:12150";
+	return "PROXY 123.207.116.18:12150";
 
 a=[
 "3wk.cc",
@@ -1800,7 +1800,7 @@ a=[
 "|https:"];
 for(i=0;i<a.length;i++){
 	if(dnsDomainIs(h,a[i])){
-		return "PROXY 58.215.187.203:12150"
+		return "PROXY 123.207.116.18:12150"
 	}
 }
 	return "DIRECT"
