@@ -89,6 +89,7 @@ a=[
 "cdjp.org",
 "cdn.staticstuff.net",
 "cdnews.com.tw",
+"cdninstagram.com",
 "cdp.sinica.edu.tw",
 "cdp1998.org",
 "cdpweb.org",
